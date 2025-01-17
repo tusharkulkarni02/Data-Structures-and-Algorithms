@@ -1,0 +1,10 @@
+class   abC{
+  int data;
+
+  pubilc:
+   setdata(int data);
+};
+
+acC::setdata(int data){
+  this->data = dta
+}
